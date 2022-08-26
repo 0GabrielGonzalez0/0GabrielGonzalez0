@@ -11,10 +11,8 @@ Horario escolar
 
 | Hora      | Lunes                             | Martes                            | Miercoles                         | Jueves                            | Viernes                |
 |-----------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|------------------------|
-| 1:00 p.m. | Ingenieria de Software            | Ingenieria de Software            | Ingenieria de Software            | Ingenieria de Software            | Ingenieria de Software |
-| 2:00 p.m. | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             |                        |
-| 3:00 p.m. | Taller de Investigacion I         | Taller de Investigacion I         | Taller de Investigacion I         | Taller de Investigacion I         |                        |
-| 4:00 p.m. | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I  |
-| 5:00 p.m. | Proframacion Logica y funcional   | Proframacion Logica y funcional   | Proframacion Logica y funcional   | Proframacion Logica y funcional   |                        |
-| 6:00 p.m. | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones |                        |
+| 2:00 p.m | Sistemas programables              | Sistemas Programables             | Sistemas Programables             | Sistemas Programables             |             |
+| 3:00 p.m. | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             |                        |
+| 4:00 p.m. | Taller de Investigacion I         | Taller de Investigacion I         | Taller de Investigacion I         | Taller de Investigacion I         |                        |
+| 5:00 p.m. | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I  |
 -->
