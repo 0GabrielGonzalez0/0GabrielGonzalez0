@@ -12,7 +12,7 @@ Horario escolar
 | Hora      | Lunes                             | Martes                            | Miercoles                         | Jueves                            | Viernes                |
 |-----------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|------------------------|
 | 2:00 p.m | Sistemas programables              | Sistemas Programables             | Sistemas Programables             | Sistemas Programables             |             |
-| 3:00 p.m. | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             |                        |
-| 4:00 p.m. | Taller de Investigacion I         | Taller de Investigacion I         | Taller de Investigacion I         | Taller de Investigacion I         |                        |
-| 5:00 p.m. | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I             | Lenguajes Automatas I  |
+| 3:00 p.m. | Programacion Web                  | Programacion Web                  | Programacion Web                  | Programacion Web                  | Programacion Web                        |
+| 4:00 p.m. | Conmuacion y Enrutamiento de Redes| Conmuacion y Enrutamiento de Redes| Conmuacion y Enrutamiento de Redes| Conmuacion y Enrutamiento de Redes|Conmuacion y Enrutamiento de Redes|
+
 -->
